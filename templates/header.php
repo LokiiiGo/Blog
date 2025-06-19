@@ -14,7 +14,7 @@
     <title>Blog de Programação</title>
     <link rel="icon" href="./img/blog.png" type="image-x icon">
     <!--Aplicação CSS-->
-    <link rel="stylesheet" href="<?=$BASE_URL?>./stylesheet/stylesheets.css">
+    <link rel="stylesheet" href="<?=$BASE_URL?>./stylesheets/stylesheets.css">
     <!--Google Fonts-->
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>

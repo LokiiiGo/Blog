@@ -25,7 +25,7 @@
         'description' => 'A lógica de programação é o conjunto de regras e técnicas que os programadores utilizam para projetar e desenvolver programas de computador. 
         É a habilidade de pensar de forma lógica e estruturada, decompondo um problema complexo em etapas mais simples.',
         'tags' => ['Lógica', 'Programação', 'Algoritmos'],
-        'img' => 'logica_programacao.webp',
+        'img' => 'LogicaProgramacao.jpg',
     ],
 
     [
@@ -33,7 +33,7 @@
         'title' => 'Programando em Bootstrap',
         'description' => 'Bootstrap é um framework front-end que fornece estruturas de CSS para a criação de sites e aplicações responsivas de forma rápida e simples. Além disso, pode lidar com sites de desktop e páginas de dispositivos móveis da mesma forma.',
         'tags' => ['Bootstrap', 'Programação Front-End', 'CSS Bootstrap'],
-        'img' => 'bootstrap.jpg',
-    ]
+        'img' => 'BootStrapi.jpg',
+    ],
 ];
 ?>
