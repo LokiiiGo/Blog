@@ -33,7 +33,7 @@
         'title' => 'Programando em Bootstrap',
         'description' => 'Bootstrap é um framework front-end que fornece estruturas de CSS para a criação de sites e aplicações responsivas de forma rápida e simples. Além disso, pode lidar com sites de desktop e páginas de dispositivos móveis da mesma forma.',
         'tags' => ['Bootstrap', 'Programação Front-End', 'CSS Bootstrap'],
-        'img' => 'BootStrapi.jpg',
+        'img' => 'bootstrap5.png',
     ],
 ];
 ?>

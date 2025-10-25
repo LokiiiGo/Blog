@@ -163,12 +163,12 @@ footer {
 
 #post-description {
     margin-bottom: 40px;
-    text-align: left;
+    text-align: center;
     color: rgb(34, 34, 34)
 }
 
 .post-content {
-    line-height: 1.5;
+    line-height: 1;
     margin: 0 0;
 }
 
@@ -181,7 +181,7 @@ footer {
 }
 
 #main-title {
-    font-size: 36px;
+    font-size: 24px;
     margin-bottom: 30px;
     text-align: center;
 }
