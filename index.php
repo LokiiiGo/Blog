@@ -11,7 +11,7 @@ include_once ("templates/header.php");
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="<?=$BASE_URL?>./stylesheets/stylesheets.css">
+    <link rel="stylesheet" href="<?=$BASE_URL?>./stylesheets/stylesheet.css">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
 </head>
 
@@ -26,7 +26,6 @@ include_once ("templates/header.php");
         <div class="post-box" class="post">
           <img src="<?= $BASE_URL ?>/img/<?= $post['img'] ?>" alt="<?= $post['title'] ?>">
           <h2 class="post-title"><a href="<?= $BASE_URL ?>post.php?id=<?= $post['id'] ?>"><?= $post['title'] ?></a></h2>
-          <p class="post-description"><?= $post['description'] ?></p>
           
           <div class="tags-container">
             <?php foreach($post['tags'] as $tag): ?>

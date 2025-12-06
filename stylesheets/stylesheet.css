@@ -150,7 +150,6 @@ footer {
     display: grid;
     grid-template-rows: auto;
     grid-template-areas: "main sidebar";
-    grid-gap: 30px;
     padding-top: 70px;
     max-width: 1200px;
     margin: 0 auto;
@@ -164,7 +163,7 @@ footer {
 
 #post-description {
     margin-bottom: 40px;
-    text-align: center;
+    text-align: justify;
     color: rgb(34, 34, 34)
 }
 
@@ -194,7 +193,7 @@ footer {
 .img-container img {
     width: 100%;
 }
-
+ /* 
 #tags-title,
 #categories-title {
     font-size: 16px;
@@ -231,7 +230,7 @@ footer {
 #categories-list a:hover {
     color: #000;
 }
-
+*/
 /*reponsivo*/
 
 @media(max-width: 480px) {

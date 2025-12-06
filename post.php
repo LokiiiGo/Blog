@@ -19,13 +19,13 @@ if(isset($_GET['id'])) {
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="<?=$BASE_URL?>./stylesheets/stylesheets.css">
+  <link rel="stylesheet" href="<?=$BASE_URL?>./stylesheets/stylesheet.css">
   <link rel="icon" href="./img/blog.png" type="image-x icon">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap" rel="stylesheet">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
-  <title>Post - <?= $currentPost['title'] ?></title>
+  <title><?= $currentPost['title'] ?></title>
 </head>
 
 <body>
@@ -50,6 +50,7 @@ if(isset($_GET['id'])) {
       <img src="<?= $BASE_URL ?>/img/<?= $currentPost['img'] ?>" alt="<?= $currentPost['title'] ?>">
     </div>    
   </div>
+  <!--
   <div class="nav-container">
     <h3 id="tags-title">Tags</h3>
     <ul id="tag-list">
@@ -64,6 +65,7 @@ if(isset($_GET['id'])) {
       <?php endforeach; ?>
     </ul>
   </div>
+      -->
 </main>
 
 <!-- Inclusão do rodapé -->
