@@ -80,6 +80,8 @@ main {
     margin-top: 30px;
     display: flex;
     flex-wrap: wrap;
+    align-items: center;
+    flex-direction: column;
 }
 
 .post-box:first-child {
@@ -148,7 +150,7 @@ footer {
     display: grid;
     grid-template-rows: auto;
     grid-template-areas: "main sidebar";
-    /* grid-gap: 30px; */
+    grid-gap: 30px;
     padding-top: 70px;
     max-width: 1200px;
     margin: 0 auto;
@@ -173,12 +175,12 @@ footer {
 
 /* post sidebar */
 
-/*.nav-container {
+.nav-container {
     grid-area: sidebar;
     font-size: 16px;
     padding: 5px;
 }
-*/
+
 #main-title {
     font-size: 24px;
     margin-bottom: 30px;
@@ -193,7 +195,6 @@ footer {
     width: 100%;
 }
 
-/* 
 #tags-title,
 #categories-title {
     font-size: 16px;
@@ -230,7 +231,6 @@ footer {
 #categories-list a:hover {
     color: #000;
 }
-*/
 
 /*reponsivo*/
 

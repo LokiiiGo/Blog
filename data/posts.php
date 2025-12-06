@@ -35,56 +35,5 @@
         'tags' => ['Bootstrap', 'Programação Front-End', 'CSS Bootstrap'],
         'img' => 'bootstrap5.png',
     ],
-    [
-        'id' => 1,
-        'title' => 'Programação PHP',
-        'description' => 'PHP (abreviação para PHP: Hypertext Preprocessor) é uma linguagem de script do lado do servidor, o que significa que o código PHP é executado no servidor web antes que a página seja enviada para o navegador do usuário.
-        Isso permite que o PHP gere conteúdo dinâmico, interaja com bancos de dados e processe informações antes de exibir a página no navegador. ',
-        'tags' => ['Programação', 'PHP', 'Lógica de Programação'],
-        'img' => 'php-placa.png',
-    ],[
-        'id' => 1,
-        'title' => 'Programação PHP',
-        'description' => 'PHP (abreviação para PHP: Hypertext Preprocessor) é uma linguagem de script do lado do servidor, o que significa que o código PHP é executado no servidor web antes que a página seja enviada para o navegador do usuário.
-        Isso permite que o PHP gere conteúdo dinâmico, interaja com bancos de dados e processe informações antes de exibir a página no navegador. ',
-        'tags' => ['Programação', 'PHP', 'Lógica de Programação'],
-        'img' => 'php-placa.png',
-    ],[
-        'id' => 1,
-        'title' => 'Programação PHP',
-        'description' => 'PHP (abreviação para PHP: Hypertext Preprocessor) é uma linguagem de script do lado do servidor, o que significa que o código PHP é executado no servidor web antes que a página seja enviada para o navegador do usuário.
-        Isso permite que o PHP gere conteúdo dinâmico, interaja com bancos de dados e processe informações antes de exibir a página no navegador. ',
-        'tags' => ['Programação', 'PHP', 'Lógica de Programação'],
-        'img' => 'php-placa.png',
-    ],[
-        'id' => 1,
-        'title' => 'Programação PHP',
-        'description' => 'PHP (abreviação para PHP: Hypertext Preprocessor) é uma linguagem de script do lado do servidor, o que significa que o código PHP é executado no servidor web antes que a página seja enviada para o navegador do usuário.
-        Isso permite que o PHP gere conteúdo dinâmico, interaja com bancos de dados e processe informações antes de exibir a página no navegador. ',
-        'tags' => ['Programação', 'PHP', 'Lógica de Programação'],
-        'img' => 'php-placa.png',
-    ],
-    [
-        'id' => 1,
-        'title' => 'Programação PHP',
-        'description' => 'PHP (abreviação para PHP: Hypertext Preprocessor) é uma linguagem de script do lado do servidor, o que significa que o código PHP é executado no servidor web antes que a página seja enviada para o navegador do usuário.
-        Isso permite que o PHP gere conteúdo dinâmico, interaja com bancos de dados e processe informações antes de exibir a página no navegador. ',
-        'tags' => ['Programação', 'PHP', 'Lógica de Programação'],
-        'img' => 'php-placa.png',
-    ],[
-        'id' => 1,
-        'title' => 'Programação PHP',
-        'description' => 'PHP (abreviação para PHP: Hypertext Preprocessor) é uma linguagem de script do lado do servidor, o que significa que o código PHP é executado no servidor web antes que a página seja enviada para o navegador do usuário.
-        Isso permite que o PHP gere conteúdo dinâmico, interaja com bancos de dados e processe informações antes de exibir a página no navegador. ',
-        'tags' => ['Programação', 'PHP', 'Lógica de Programação'],
-        'img' => 'php-placa.png',
-    ],[
-        'id' => 1,
-        'title' => 'Programação PHP',
-        'description' => 'PHP (abreviação para PHP: Hypertext Preprocessor) é uma linguagem de script do lado do servidor, o que significa que o código PHP é executado no servidor web antes que a página seja enviada para o navegador do usuário.
-        Isso permite que o PHP gere conteúdo dinâmico, interaja com bancos de dados e processe informações antes de exibir a página no navegador. ',
-        'tags' => ['Programação', 'PHP', 'Lógica de Programação'],
-        'img' => 'php-placa.png',
-    ],
 ];
 ?>

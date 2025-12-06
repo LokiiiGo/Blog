@@ -51,7 +51,6 @@ if(isset($_GET['id'])) {
     </div>    
   </div>
   <div class="nav-container">
-    <!-- 
     <h3 id="tags-title">Tags</h3>
     <ul id="tag-list">
       <?php foreach($currentPost['tags'] as $tag): ?>
@@ -64,7 +63,6 @@ if(isset($_GET['id'])) {
         <li><a href="#"><?= $category ?></a></li>
       <?php endforeach; ?>
     </ul>
-      -->
   </div>
 </main>
 
